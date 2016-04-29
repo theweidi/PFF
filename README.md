@@ -1,3 +1,4 @@
 # PFF
-Python for fun
-This repository for python parser/script
+- Python for fun
+
+- This repository for python parser/script
